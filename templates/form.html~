@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>
+      WebForm!
+    </title>
+  </head>
+  <body>
+    <form method="POST" action="/">
+      Text <input type = "text" name = "text"> <br>
+      <input type="submit" value = "submit">
+    </form>
+  </body>
+</html>
